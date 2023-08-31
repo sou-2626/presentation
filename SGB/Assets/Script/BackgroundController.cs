@@ -14,7 +14,7 @@ public class BackgroundController : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
         // ”wŒi‚ğ‰º‚ÉƒXƒNƒ[ƒ‹‚³‚¹‚é
         transform.position += Vector3.down * Speed * Time.deltaTime;
