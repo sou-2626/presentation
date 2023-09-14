@@ -24,6 +24,7 @@ public class EnemyController : MonoBehaviour
         {
             Instantiate(EbulletPrefab, transform.position, Quaternion.identity);
             timer = interval; // 間隔をセット
+            interval -= 0.01f;
         }
 
         // タイマーの値を減らす

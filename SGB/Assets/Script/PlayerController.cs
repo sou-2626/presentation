@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     public GameObject bulletPrefab;
-    private float interval = 0.2f; // 何秒間隔で撃つか
+    private float interval = 0.15f; // 何秒間隔で撃つか
     private float timer = 2f;　// 時間カウント用のタイマー
 
     // Start is called before the first frame update

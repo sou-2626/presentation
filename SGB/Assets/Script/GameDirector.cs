@@ -25,7 +25,7 @@ public class GameDirector : MonoBehaviour
     void Update()
     {
         this.ScoreLabel.GetComponent<Text>().text =
-            this.point.ToString() + "Pointl";
+            this.point.ToString() + "Point";
         PlayerPrefs.SetInt("ScoreLabel", score_num);
         PlayerPrefs.Save();
     }

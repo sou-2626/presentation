@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GameOver.unity
     guid: 17116c18e45e125408f1bd209cad1a0e
+  - enabled: 1
+    path: Assets/Scenes/settei.unity
+    guid: 33a9e58ce911562448011f5c3a620119
   m_configObjects: {}
