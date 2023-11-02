@@ -736,8 +736,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 92}
-  m_SizeDelta: {x: 393.7822, y: 59.4926}
+  m_AnchoredPosition: {x: -0.000013351, y: 100}
+  m_SizeDelta: {x: 425.7248, y: 89.9834}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1800529684
 MonoBehaviour:
@@ -772,7 +772,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u2190\u2192\u30AD\u30FC\u3067\u64CD\u4F5C\u3057\u3066\u6575\u306E\u7403\u3092\u3088\u3051\u3088\u3046\uFF01\n\u30D7\u30EC\u30A4\u30E4\u30FC\u306F\u5373\u6B7B\u306A\u306E\u3067\u614E\u91CD\u306B\u3088\u3051\u3088\u3046\uFF01"
+  m_Text: "\u2190\u2192\u30AD\u30FC\u3067\u64CD\u4F5C\u3057\u3066\u6575\u306E\u7403\u3092\u3088\u3051\u3088\u3046\uFF01\n\u30D7\u30EC\u30A4\u30E4\u30FC\u306F\u5373\u6B7B\u306A\u306E\u3067\u614E\u91CD\u306B\u3088\u3051\u3088\u3046\uFF01\n\u2606\u3082\u3088\u3051\u3088\u3046\uFF01\uFF01\uFF01"
 --- !u!222 &1800529685
 CanvasRenderer:
   m_ObjectHideFlags: 0
